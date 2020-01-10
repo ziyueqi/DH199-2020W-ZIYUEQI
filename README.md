@@ -11,4 +11,4 @@ Week 6: Finish low fidelity prototype
 Week 7: Finish high fidelity prototype
 Week 8: Perform usability tests
 Week 9: Create a website/portfolio to document work. 
-Week 10: Present work 
+Week 10: Present work.
